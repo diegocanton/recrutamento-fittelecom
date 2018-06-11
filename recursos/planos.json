@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Plano 50 Mb",
+    "img_path": "imagens/50.png"
+  },
+  {
+    "id": 2,
+    "nome": "Plano 70 Mb",
+    "img_path": "imagens/70.png"
+  },
+  {
+    "id": 3,
+    "nome": "Plano 90 Mb",
+    "img_path": "imagens/90.png"
+  },
+  {
+    "id": 4,
+    "nome": "Plano 250 Mb",
+    "img_path": "imagens/250.png"
+  }
+]
